@@ -25,6 +25,7 @@ public class Problem1 {
 			}
 		}
 		arr_ans.add(c);
+		
 		return arr_ans;
 		
 	}

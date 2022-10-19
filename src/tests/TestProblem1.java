@@ -38,7 +38,5 @@ public class TestProblem1 {
         assertArrayEquals(ar2, z2);
         
 	}
-	
-	//TEST FOR INPUT-2
     
 }
